@@ -32,7 +32,16 @@ We do not sell or rent your personal data to third parties.
 
 ⸻
 
-3. Sharing of Information
+3. Legal Basis for Processing (EU/EEA Users)
+
+If you are located in the European Union or European Economic Area, we process your personal data on the following legal bases:
+	•	Performance of a contract: to provide you with the DartScore service you requested.
+	•	Legitimate interest: to maintain and improve the app, prevent abuse, and protect the security of our systems.
+	•	Legal obligation: to comply with applicable laws.
+
+⸻
+
+4. Sharing of Information
 
 We may share limited information with:
 	•	Service Providers: e.g., cloud hosting, authentication, or analytics providers that help us operate the app.
@@ -42,7 +51,7 @@ We do not share your personal data with advertisers or unrelated third parties.
 
 ⸻
 
-4. Data Security
+5. Data Security
 
 We use industry-standard safeguards to protect your data:
 	•	Passwords are securely hashed and never stored in plain text.
@@ -53,13 +62,13 @@ However, no online system is completely secure, and you use DartScore at your ow
 
 ⸻
 
-5. Data Retention
+6. Data Retention
 
 We keep your account data as long as your account is active. You may delete your account at any time, and your personal data (including match and club data linked to you) will be deleted or anonymized within a reasonable period.
 
 ⸻
 
-6. Your Rights
+7. Your Rights
 
 Depending on your location, you may have the right to:
 	•	Access, update, or delete your personal data;
@@ -70,19 +79,19 @@ You can make such requests by contacting us at support@dartscore.io
 
 ⸻
 
-7. Children’s Privacy
+8. Children’s Privacy
 
 DartScore is not directed to children under 13 (or 16 in the EU). We do not knowingly collect data from children. If we learn that we have inadvertently collected data from a child, we will delete it promptly.
 
 ⸻
 
-8. Changes to This Policy
+9. Changes to This Policy
 
 We may update this Privacy Policy from time to time. The “Last updated” date at the top will reflect the latest version. If changes are significant, we will notify users within the app or by email.
 
 ⸻
 
-9. Contact Us
+10. Contact Us
 
 If you have questions or requests regarding this Privacy Policy, contact us at:
 📧 support@dartscore.io
